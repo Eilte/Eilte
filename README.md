@@ -3,9 +3,9 @@
 
 <p align="center"> 
   </br></br>
-  <a href=""><img src="https://github.com/Eilte/Eilte/blob/c444bc7f3685288c37ae17bcec7b56e0ddc82d0c/social-badges-neon/social-telegram.svg" width="210px"/></a>
-  <a href=""><img src="https://github.com/Eilte/Eilte/blob/c444bc7f3685288c37ae17bcec7b56e0ddc82d0c/social-badges-neon/social-discord.svg" width="190px"/></a>
-  <a href=""><img src="https://github.com/Eilte/Eilte/blob/c444bc7f3685288c37ae17bcec7b56e0ddc82d0c/social-badges-neon/social-website.svg" width="185px"/></a>
+  <a href=""><img src="social-badges-neon/social-telegram.svg" width="210px"/></a>
+  <a href=""><img src="social-badges-neon/social-discord.svg" width="190px"/></a>
+  <a href=""><img src="social-badges-neon/social-website.svg" width="185px"/></a>
   </br></br></br>
 </p>
 
