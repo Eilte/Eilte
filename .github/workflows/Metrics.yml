@@ -28,7 +28,7 @@ jobs:
           user: Eilte
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/HongKong
+          config_timezone: Asia/Hongkong
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
